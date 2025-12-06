@@ -1,0 +1,15 @@
+# Angular
+tickets-client/node_modules/
+tickets-client/dist/
+tickets-client/.angular/
+tickets-client/*.log
+
+# .NET
+TicketsAPI/bin/
+TicketsAPI/obj/
+TicketsAPI/*.user
+TicketsAPI/.vs/
+
+# OS
+.DS_Store
+Thumbs.db 
